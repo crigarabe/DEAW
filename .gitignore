@@ -1,4 +1,4 @@
 #Se ignorarán los siguietes ficheros.
-privado.txt
+*.txt
 privada/
 cris.txt
